@@ -3,9 +3,10 @@
   justify-content: space-between;
   margin-bottom: 8px;
  }
+
  
  .todo-item p {
-  color: #888;
+  color: #675d5d;
   text-decoration: line-through;
  }
 
